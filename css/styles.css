@@ -1,0 +1,7 @@
+@media(min-width:576px){
+    .demo{
+        background-color: indianred;
+        widows: 100px;
+        height: 200px;
+    }
+}
